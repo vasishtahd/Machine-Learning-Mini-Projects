@@ -162,7 +162,7 @@ ply==3.11
 preshed==2.0.1
 prometheus-client==0.4.2
 prompt-toolkit==2.0.7
-protobuf==3.7.0
+protobuf==3.18.3
 psutil==5.4.8
 py==1.7.0
 pyaml==18.11.0
